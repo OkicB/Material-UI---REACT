@@ -1,4 +1,4 @@
-Preview of Application
+Preview of React Application - Material UI
 
 
 ![Screenshot (530)](https://user-images.githubusercontent.com/55504119/114317356-002e2580-9b08-11eb-9169-00c1cfa5291f.png)
